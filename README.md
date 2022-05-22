@@ -1,6 +1,6 @@
 # Study_Application-of-JavaScript
 ---
-1. [Truthy & Falsy]()
+1. [Truthy & Falsy](Truthy&Falsy.md)
 2. [삼항 연산자]()
 3. [단락회로 평가]()
 4. [조건문 업그레이드]()
