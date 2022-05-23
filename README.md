@@ -9,4 +9,4 @@
 7. [동기 & 비동기](동기&비동기.md)
 8. [Promise - 콜백 지옥에서 탈출하기](promise.md)
 9. [async & await - 직관적인 비 동기 처리 코드 작성하기](async&await.md)
-10. [API 호출하기]()
+10. [API 호출하기](call_api.md)
